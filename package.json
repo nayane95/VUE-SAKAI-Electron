@@ -1,6 +1,8 @@
 {
   "name": "sakai-vue",
   "version": "3.1.1-SNAPHOT",
+  "author": "nayana",
+  "description": "ZIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/primefaces/sakai-vue.git"
